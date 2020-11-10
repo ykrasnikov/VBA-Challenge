@@ -5,6 +5,6 @@ VBA script that loops through all the stocks for one year and output the require
 * 2015 stock data
 ![Results Screenshots 2015](https://github.com/ykrasnikov/VBA-Challenge/blob/main/images/Screenshot2015analyzed.png)
 * 2014 stock data
-![Results Screenshots 2014](https://github.com/ykrasnikov/VBA-Challenge/blob/main/images/Screenshot2014analyzed.Png)
+![Results Screenshots 2014](https://github.com/ykrasnikov/VBA-Challenge/blob/main/images/Screenshot2014analyzed.png)
 
 * [VBA Script ](/tickers_analsyis.bas) 
